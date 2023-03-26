@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mynameisvasco/FutWebApiV2.git"
+    "url": "git@github.com:coincabin/futwebapiv2.git"
   },
   "bugs": {
-    "url": "https://github.com/mynameisvasco/FutWebApiV2/issues"
+    "url": "https://github.com/coincabin/FutWebApiV2/issues"
   },
-  "homepage": "https://github.com/mynameisvasco/FutWebApiV2#readme",
+  "homepage": "https://github.com/coincabin/FutWebApiV2#readme",
   "directories": {
     "doc": "docs",
     "example": "example"
